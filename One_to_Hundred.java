@@ -1,4 +1,4 @@
-public class One_to_Hundred(PrimeNumbers){
+public class One_to_Hundred{
     public static void main(String[] args) {
         int upperLimit = 100;
         

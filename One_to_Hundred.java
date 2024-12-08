@@ -1,4 +1,4 @@
-public class One_to_Hundred{
+public class One_to_Hundred(PrimeNumbers){
     public static void main(String[] args) {
         int upperLimit = 100;
         
@@ -11,9 +11,7 @@ public class One_to_Hundred{
                 }
             }
 
-            if (count == 2) {
-                System.out.println(num);
-            }
+           
         }
     }
 }

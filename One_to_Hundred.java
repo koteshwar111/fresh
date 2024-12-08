@@ -11,7 +11,9 @@ public class One_to_Hundred{
                 }
             }
 
-            
+            if (count == 2) {
+                System.out.println(num);
+            }
         }
     }
 }

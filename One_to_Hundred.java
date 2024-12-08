@@ -11,7 +11,9 @@ public class One_to_Hundred(PrimeNumbers){
                 }
             }
 
-           
+            if (count == 2) {
+                System.out.println(num);
+            }
         }
     }
 }
